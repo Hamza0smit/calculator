@@ -1,0 +1,82 @@
+.container{
+    width: 300px;
+    margin: 0 auto;
+    border: 2px solid black;
+    height: 600px;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: black;
+  }
+
+  nav h1 {
+    background-color: white;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+  }
+
+  p {
+    text-align: end;
+    font-size:30px;
+    margin-right: 10px;
+    color: white;
+  }
+
+  .flex{
+    display: flex;
+    align-items:center;
+  justify-content: space-between;
+}
+
+.one{
+  /* background-color: yellow; */
+   /* padding-top:5px 10px; */
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius:50%;
+  color: white;
+  width: 70px;
+  height: 70px;
+}
+
+.a{
+    background-color: #9A9A9A;
+}
+
+.arrow{
+    background-color: #9A9A9A;
+}
+
+.per{
+    background-color: #9A9A9A;
+}
+
+
+.did{
+    background-color: #EF9408;
+}
+
+.multi{
+    background-color: #EF9408;
+}
+
+.minus{
+    background-color: #EF9408;
+}
+
+.plus{
+    background-color: #EF9408;
+}
+
+.equal{
+    background-color: #EF9408;
+}
+
+.scolor{
+    background-color: #311111;
+    
+}
+
+  
